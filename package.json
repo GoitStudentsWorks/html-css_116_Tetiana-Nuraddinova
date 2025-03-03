@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/green-harvest/",
+    "build": "vite build --base=/html-css_116_Tetiana-Nuraddinova/",
     "preview": "vite preview"
   },
   "devDependencies": {
